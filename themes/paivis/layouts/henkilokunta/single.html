@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<!-- saved from url=(0052)http://v4-alpha.getbootstrap.com/examples/offcanvas/ -->
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <!-- <link rel="icon" href="http://v4-alpha.getbootstrap.com/favicon.ico"> -->
+
+  <title>Päiväkummun koulu</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="/bootstrap.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="/offcanvas.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+</head>
+
+<body>
+  <nav class="navbar navbar-fixed-top navbar-dark bg-inverse">
+    <div class="container">
+      <!-- <a class="navbar-brand" href="http://v4-alpha.getbootstrap.com/examples/offcanvas/#">Päiväkummun koulun kotisivut</a> -->
+      <ul class="nav navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="/index.html"> <i class="fa fa-home fa-lg"></i> Alkuun</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="http://v4-alpha.getbootstrap.com/examples/offcanvas/#"> <i class="fa fa-info-circle fa-lg"></i> Yhteystiedot</a>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="http://v4-alpha.getbootstrap.com/examples/offcanvas/#contact"><i class="fa fa-book fa-lg"></i> Lomakkeet</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://wilma.edu.vantaa.fi/"><i class="fa fa-external-link fa-lg"></i> Wilma</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="text-xs-center">
+    <h1>Päiväkummun koulun henkilökunta</h1>
+  </div>
+
+  {{ $url := "https://docs.google.com/spreadsheets/d/14kGG00ZwcaLBnDBmcqVjl5DuUua7t3qocwBdZPf-tww/pub?output=csv" }}
+  {{ $sep := "," }}
+  {{ range $i, $r := getCSV $sep $url }}
+  {{ if eq $i 0 }}
+
+  {{else}}
+  <div class="col-xs-8 col-md-4 col-lg-3 col-xl-2">
+    <div class="card">
+      <div class="card-block text-xs-center center-block">
+        <h4 class="card-title">{{ index $r 0 }}<br>{{ index $r 1 }}</h4>
+        <h6 class="card-subtitle text-muted">{{ index $r 2 }}, {{ index $r 3 }}</h6>
+        <img class="img-fluid" src="/Jukka_Pesonen.jpg" alt="Card image">
+      </div>
+
+      <div class="card-block text-xs-center center-block">
+        <p class="card-text">{{ index $r 8 }}</p>
+        <a class="card-text" href="mailto:{{ index $r 4 }}">{{ index $r 4 }}</a>
+        <p class="card-text">{{ index $r 5 }}</p>
+      </div>
+    </div>
+  </div>
+  {{end}}
+  {{ end }}
+
+
+
+
+
+
+
+
+  </div>
+
+  </div>
+
+
+
+
+  </div>
+
+  <!--/.container-->
+
+
+  <!-- Bootstrap core JavaScript
+    ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="./jquery.min.js"></script>
+  <script>
+    window.jQuery || document.write('<script src="./jquery.min.js"><\/script>')
+  </script>
+  <script src="./bootstrap.min.js"></script>
+  <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+  <script src="./ie10-viewport-bug-workaround.js"></script>
+  <script src="./offcanvas.js"></script>
+  <script src="./carousel.js"></script>
+  <script src="./util.js"></script>
+
+
+</body>
+
+</html>

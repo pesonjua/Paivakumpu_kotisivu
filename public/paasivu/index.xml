@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paasivus on My New Hugo Site</title>
+    <link>http://replace-this-with-your-hugo-site.com/paasivu/</link>
+    <description>Recent content in Paasivus on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2016 11:04:38 +0200</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/paasivu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Talvilomatiedote</title>
+      <link>http://replace-this-with-your-hugo-site.com/paasivu/talvilomatiedote/</link>
+      <pubDate>Wed, 20 Jan 2016 11:04:38 +0200</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/paasivu/talvilomatiedote/</guid>
+      <description>&lt;p&gt;Hei vanhemmat.&lt;/p&gt;
+
+&lt;p&gt;Talvilomat lähestyvät ja muistin virkistämiseksi ohessa tärkeät päivämäärät&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;loma alkaa 4.3.2016&lt;/li&gt;
+&lt;li&gt;koulu alkaa jälleen 12.3.2016&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;strong&gt;Ennakkotiedoista poiketen, aloitamme normaalilla lukujärjestyksellä!&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Itä-Vantaan suunnistuskilpailu, pojat 5. luokka</title>
+      <link>http://replace-this-with-your-hugo-site.com/paasivu/koulun_suunnistuskilpailu/</link>
+      <pubDate>Wed, 20 Jan 2016 13:21:38 +0200</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/paasivu/koulun_suunnistuskilpailu/</guid>
+      <description>&lt;p&gt;Koulumme pojat pärjäsivät erinomaisesti Itä-Vantaan viidesluokkalaisten suunnistuskilpailussa.
+&lt;div class=&#34;table&#34;&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;Sijoitus&lt;/th&gt;
+&lt;th&gt;Nimi&lt;/th&gt;
+&lt;th&gt;Koulu&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Aika&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;1.&lt;/td&gt;
+&lt;td&gt;Pekka Virtanen&lt;/td&gt;
+&lt;td&gt;Päiväkumpu&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;59:45&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;2.&lt;/td&gt;
+&lt;td&gt;Sami Saukkonen&lt;/td&gt;
+&lt;td&gt;Rekola&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1:01:12&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;2.&lt;/td&gt;
+&lt;td&gt;Marko Markkanen&lt;/td&gt;
+&lt;td&gt;Havukoski&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1:01:12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Tulostiedoston taulukkomuodosta voit ladata &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/tulokset.xls&#34;&gt;täältä&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
