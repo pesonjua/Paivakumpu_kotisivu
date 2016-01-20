@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://pesonjua.github.io/Paivakumpu_kotisivu/</loc>
+    <loc>http://localhost:54509/Paivakumpu_kotisivu/</loc>
     <lastmod>2016-01-17T00:26:35+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://pesonjua.github.io/Paivakumpu_kotisivu/henkilokunta/Pesonen-Jukka/</loc>
+    <loc>http://localhost:54509/Paivakumpu_kotisivu/henkilokunta/Pesonen-Jukka/</loc>
     <lastmod>2016-01-17T00:26:35+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pesonjua.github.io/Paivakumpu_kotisivu/henkilokunta/</loc>
+    <loc>http://localhost:54509/Paivakumpu_kotisivu/henkilokunta/</loc>
     <lastmod>2016-01-17T00:26:35+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pesonjua.github.io/Paivakumpu_kotisivu/</loc>
+    <loc>http://localhost:54509/Paivakumpu_kotisivu/</loc>
     <lastmod>2016-01-17T00:26:35+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pesonjua.github.io/Paivakumpu_kotisivu/paasivu/talvilomatiedote/</loc>
+    <loc>http://localhost:54509/Paivakumpu_kotisivu/paasivu/talvilomatiedote/</loc>
     <lastmod>2016-01-20T11:04:38+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pesonjua.github.io/Paivakumpu_kotisivu/paasivu/Pekka-Virtanen-Ela%CC%88kkeelle/</loc>
+    <loc>http://localhost:54509/Paivakumpu_kotisivu/paasivu/Pekka-Virtanen-Ela%CC%88kkeelle/</loc>
     <lastmod>2016-01-20T13:21:38+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pesonjua.github.io/Paivakumpu_kotisivu/paasivu/koulun_suunnistuskilpailu/</loc>
+    <loc>http://localhost:54509/Paivakumpu_kotisivu/paasivu/koulun_suunnistuskilpailu/</loc>
     <lastmod>2016-01-20T00:00:00+00:00</lastmod>
   </url>
   
