@@ -10,26 +10,7 @@
     <atom:link href="http://pesonjua.github.io/Paivakumpu_kotisivu/paasivu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Talvilomatiedote</title>
-      <link>http://pesonjua.github.io/Paivakumpu_kotisivu/paasivu/talvilomatiedote/</link>
-      <pubDate>Wed, 20 Jan 2016 11:04:38 +0200</pubDate>
-      
-      <guid>http://pesonjua.github.io/Paivakumpu_kotisivu/paasivu/talvilomatiedote/</guid>
-      <description>&lt;p&gt;Hei vanhemmat.&lt;/p&gt;
-
-&lt;p&gt;Talvilomat lähestyvät ja muistin virkistämiseksi ohessa tärkeät päivämäärät&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;loma alkaa 4.3.2016&lt;/li&gt;
-&lt;li&gt;koulu alkaa jälleen 12.3.2016&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;strong&gt;Ennakkotiedoista poiketen, aloitamme normaalilla lukujärjestyksellä!&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Talvilomatiedote</title>
+      <title>YHR-vanhempainilta</title>
       <link>http://pesonjua.github.io/Paivakumpu_kotisivu/paasivu/yhr_vanhempainilta/</link>
       <pubDate>Wed, 20 Jan 2016 11:04:38 +0200</pubDate>
       
@@ -45,6 +26,25 @@
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;strong&gt;Olkaa ajoissa!&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talvilomatiedote</title>
+      <link>http://pesonjua.github.io/Paivakumpu_kotisivu/paasivu/talvilomatiedote/</link>
+      <pubDate>Wed, 20 Jan 2016 11:04:38 +0200</pubDate>
+      
+      <guid>http://pesonjua.github.io/Paivakumpu_kotisivu/paasivu/talvilomatiedote/</guid>
+      <description>&lt;p&gt;Hei vanhemmat.&lt;/p&gt;
+
+&lt;p&gt;Talvilomat lähestyvät ja muistin virkistämiseksi ohessa tärkeät päivämäärät&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;loma alkaa 4.3.2016&lt;/li&gt;
+&lt;li&gt;koulu alkaa jälleen 12.3.2016&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;strong&gt;Ennakkotiedoista poiketen, aloitamme normaalilla lukujärjestyksellä!&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </description>
     </item>
     
